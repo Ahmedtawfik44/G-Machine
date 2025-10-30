@@ -4,7 +4,7 @@ import { Whats } from "../component/whats.js";
 
 // Img Slider
 
-let images = ['../images/slider-1.webp', '../images/slider-2.webp', '../images/slider-3.webp'];
+let images = ['./images/slider-1.webp', './images/slider-2.webp', './images/slider-3.webp'];
 let img = document.querySelector('.slider .slider-img img');
 let slider= document.querySelector('.slider');
 let indicators = document.querySelectorAll('.slider .indicators li');
