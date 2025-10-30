@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "Laser": [
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "GH Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "DF Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "DF Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "GH Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "SO Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        }
+      ]
+    },
+    {
+      "Nasser": [
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "Test Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "OL Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "LL Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": " Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        }
+      ]
+    },
+    {
+      "Lpaaer": [
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "GH Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "GH Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "GH Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        },
+        {
+          "imgheader": "../images/product-all-1.webp",
+          "image": "../images/gh.webp",
+          "title": "GH Series",
+          "desc": "LF4020/6025/8025/12025GH High Power & Large Scale Fiber Laser Cutting Machine",
+          "link": "learn More"
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "Laser": [
+        {
+          "header": "Material",
+          "title1": "Stainless Steel",
+          "title2": "Stainless Steel",
+          "title3": "Stainless Steel",
+          "title4": "Stainless Steel",
+          "title5": "Stainless Steel"
+        },
+        {
+          "header": "Material",
+          "title1": "Stainless Steel",
+          "title2": "Stainless Steel",
+          "title3": "Stainless Steel",
+          "title4": "Stainless Steel",
+          "title5": "Stainless Steel"
+        },
+        {
+          "header": "Material",
+          "title1": "Stainless Steel",
+          "title2": "Stainless Steel",
+          "title3": "Stainless Steel",
+          "title4": "Stainless Steel",
+          "title5": "Stainless Steel"
+        }
+      ]
+    },
+    {
+      "Nasser": [
+        {
+          "header": "Material",
+          "title1": "Stainless Steel",
+          "title2": "Stainless Steel",
+          "title3": "Stainless Steel",
+          "title4": "Stainless Steel",
+          "title5": "Stainless Steel"
+        }
+      ]
+    }
+  ]
+}
