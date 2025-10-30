@@ -19,7 +19,7 @@ async function getdata(tab, id) {
     let container = document.querySelector('.product-content .container');
     container.innerHTML = "";
     try {
-        let data = await fetch('/js/data/db.json');
+        let data = await fetch('../data/db.json');
 
         if (data.status !== 200) {
             console.log("The Data Error 404");

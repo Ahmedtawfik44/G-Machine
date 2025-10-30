@@ -10,7 +10,7 @@ async function getdata() {
         let grid = document.createElement('div');
         grid.classList.add('grid-product' , 'grid-search');
 
-        let data = await fetch('/js/data/db.json');
+        let data = await fetch('../data/db.json');
         if (data.status !== 200) {
             console.log("The Data Error 404");
         } else {
